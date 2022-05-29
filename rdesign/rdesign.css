@@ -1,0 +1,25 @@
+body {background-color: aqua;}
+
+h1 {size: 10cm;}
+
+h2 {size: 5cm;}
+
+img {
+
+max-width: 100%;
+
+}
+
+figure { 
+margin: 0;
+
+}
+@media screen and (min-width: 420px) {
+
+    body {
+    
+    background: purple; margin: 2px;
+    
+    }
+    
+    }
